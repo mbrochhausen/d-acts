@@ -429,7 +429,7 @@ Is part_of the appropriate relation to use for data items and documented identit
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0020027">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00002072"/>
         <obo:IAO_0000112 xml:lang="en">Tammy&apos;s owner role with regards to the house on 234 Evergreen Terrace; Walter&apos;s owner role with regards to the intellectual property on his movie script</obo:IAO_0000112>
-        <obo:IAO_0000115 xml:lang="en">A role in a human social process that is based on a social act and whose bearer exercises exclusive control over a property, where this control is permitted by one or more deontic roles, which are parts of the owner role.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A role in a human social process that, when it is realized, is realized when the bearer exercises control over some entity, where this control is permitted by one or more deontic roles, which this role has a continuant part.</obo:IAO_0000115>
         <obo:IAO_0000117>Mathias Brochhausen</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">OBIB/ICO community</obo:IAO_0000119>
         <obo:IAO_0000119>https://github.com/d-acts/d-acts/issues/29</obo:IAO_0000119>
